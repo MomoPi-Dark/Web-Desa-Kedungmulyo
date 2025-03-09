@@ -1,10 +1,17 @@
 # 🌍 Web Desa Kedungmulyo
 
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdesakedungmulyo.vercel.app&style=for-the-badge)  
+![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fdesakedungmulyo.vercel.app&style=for-the-badge)
 Website resmi Desa Kedungmulyo yang menyediakan berbagai informasi penting, layanan online, serta fitur **Spot** dan **Tips** untuk kemudahan akses bagi masyarakat.
 
 ## 🔗 Live Demo
 👉 [desakedungmulyo.vercel.app](https://desakedungmulyo.vercel.app/)
+
+## 🖼️ Tampilan Website
+### 🏠 Halaman Utama
+<img src="assets/home.png" alt="Home Page" width="800"/>
+
+### 📍 Fitur Spot
+<img src="assets/spot.png" alt="Spot Page" width="800"/>
 
 ## 📌 Fitur Utama
 - **Informasi Desa** → Berita, pengumuman, dan sejarah Desa Kedungmulyo
