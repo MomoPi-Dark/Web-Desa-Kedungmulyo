@@ -16,7 +16,6 @@ Website resmi Desa Kedungmulyo yang menyediakan berbagai informasi penting, laya
 - **Next.js** → Framework React untuk performa optimal
 - **Tailwind CSS** → Styling modern dan responsif
 - **Vercel** → Deployment yang cepat dan aman
-- **Map API** → Menampilkan lokasi strategis dalam fitur Spot
 
 ## 📥 Instalasi dan Penggunaan
 ```bash
